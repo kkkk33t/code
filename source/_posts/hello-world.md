@@ -6,7 +6,7 @@ tags:
   - hexo
   - Blog
   - test
-categories:
+categories: 
   - 博客搭建
 keywords:
 description:
